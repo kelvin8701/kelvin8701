@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Name is **Kelvin Wiriyatama**.
+
+I am a Student at **Universitas Pelita Harapan**.
+
+More about me, follow my [Linkedin](https://www.linkedin.com/in/kelvin-wiriyatama-353bb61b7/) Account.
